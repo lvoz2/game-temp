@@ -1,7 +1,8 @@
-# js-game-temp
+# css-js-game-temp
 
-A repositry of javascript for making HTML5 games. 
+A repositry of CSS + JavaScript for making HTML5 games. 
 Add the following code to the head of necessary html files.
-```javascript
-<script src='https://lvoz2.github.io/js-game-temp/core.js'></script>
+```html
+<script src='https://lvoz2.github.io/css-js-game-temp/core.js'></script>
+<link rel="stylesheet" href="https://lvoz2.github.io/css-js-game-temp/core.css"></link>
 ```
