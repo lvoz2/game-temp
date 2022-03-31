@@ -1,4 +1,4 @@
-game-temp
+# game-temp
 
 A repositry of HTML + CSS + JavaScript for making HTML5 games. 
 Either use this repositry as a template, or
